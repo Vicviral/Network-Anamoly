@@ -1,6 +1,6 @@
 """
-Author:     David Walshe
-Date:       03/04/2020
+Author:         Victor Loveday
+Date:           01/08/2022
 """
 import logging
 from collections import Counter

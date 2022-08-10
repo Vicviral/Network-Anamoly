@@ -1,6 +1,5 @@
 {
-    "X": [
-        {
+    "X": [{
             "name": "duration",
             "dtype": "continuous"
         },
@@ -165,11 +164,8 @@
             "dtype": "continuous"
         }
     ],
-    "y": [
-        {
-            "name": "signature",
-            "dtype": "continuous"
-        }
-    ]
+    "y": [{
+        "name": "signature",
+        "dtype": "continuous"
+    }]
 }
-

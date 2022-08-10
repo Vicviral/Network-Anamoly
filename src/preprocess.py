@@ -1,6 +1,6 @@
 """
-Author:         David Walshe
-Date:           09/04/2020   
+Author:         Victor Loveday
+Date:           01/08/20220   
 """
 
 import numpy as np

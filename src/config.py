@@ -1,6 +1,6 @@
 """
-Author:         David Walshe
-Date:           11/04/2020   
+Author:         Victor Loveday
+Date:           01/08/2022  
 Desc:           Helper file to control all global variables in the model Pipeline.
 """
 
