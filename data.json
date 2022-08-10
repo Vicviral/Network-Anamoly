@@ -1,0 +1,175 @@
+{
+    "X": [
+        {
+            "name": "duration",
+            "dtype": "continuous"
+        },
+        {
+            "name": "protocol_type",
+            "dtype": "discrete"
+        },
+        {
+            "name": "service",
+            "dtype": "discrete"
+        },
+        {
+            "name": "flag",
+            "dtype": "discrete"
+        },
+        {
+            "name": "src_bytes",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_bytes",
+            "dtype": "continuous"
+        },
+        {
+            "name": "land",
+            "dtype": "discrete"
+        },
+        {
+            "name": "wrong_fragment",
+            "dtype": "continuous"
+        },
+        {
+            "name": "urgent",
+            "dtype": "continuous"
+        },
+        {
+            "name": "hot",
+            "dtype": "continuous"
+        },
+        {
+            "name": "num_failed_logins",
+            "dtype": "continuous"
+        },
+        {
+            "name": "logged_in",
+            "dtype": "discrete"
+        },
+        {
+            "name": "num_compromised",
+            "dtype": "continuous"
+        },
+        {
+            "name": "root_shell",
+            "dtype": "discrete"
+        },
+        {
+            "name": "su_attempted",
+            "dtype": "discrete"
+        },
+        {
+            "name": "num_root",
+            "dtype": "continuous"
+        },
+        {
+            "name": "num_file_creations",
+            "dtype": "continuous"
+        },
+        {
+            "name": "num_shells",
+            "dtype": "continuous"
+        },
+        {
+            "name": "num_access_files",
+            "dtype": "continuous"
+        },
+        {
+            "name": "num_outbound_cmds",
+            "dtype": "continuous"
+        },
+        {
+            "name": "is_host_login",
+            "dtype": "discrete"
+        },
+        {
+            "name": "is_guest_login",
+            "dtype": "discrete"
+        },
+        {
+            "name": "count",
+            "dtype": "continuous"
+        },
+        {
+            "name": "srv_count",
+            "dtype": "continuous"
+        },
+        {
+            "name": "serror_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "srv_serror_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "rerror_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "srv_rerror_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "same_srv_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "diff_srv_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "srv_diff_host_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_count",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_srv_count",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_same_srv_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_diff_srv_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_same_src_port_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_srv_diff_host_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_serror_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_srv_serror_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_rerror_rate",
+            "dtype": "continuous"
+        },
+        {
+            "name": "dst_host_srv_rerror_rate",
+            "dtype": "continuous"
+        }
+    ],
+    "y": [
+        {
+            "name": "signature",
+            "dtype": "continuous"
+        }
+    ]
+}
+
